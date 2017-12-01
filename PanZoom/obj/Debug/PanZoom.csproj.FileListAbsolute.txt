@@ -12,3 +12,4 @@ C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\Wp
 C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\PanZoom.csproj.GenerateResource.Cache
 C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.exe
 C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.pdb
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\PanZoom.csproj.CoreCompileInputs.cache
