@@ -1,0 +1,14 @@
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\bin\Debug\WpfApp1.exe.config
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\bin\Debug\WpfApp1.exe
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\bin\Debug\WpfApp1.pdb
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\PanZoom.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\MainWindow.g.cs
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\App.g.cs
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\MainWindow.baml
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.g.resources
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\PanZoom.csproj.GenerateResource.Cache
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.exe
+C:\Users\Mark\Documents\Visual Studio 2017\Projects\PanZoom\PanZoom\obj\Debug\WpfApp1.pdb
